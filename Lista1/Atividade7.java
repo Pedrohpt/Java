@@ -4,6 +4,17 @@
 public class Atividade7 {
     public static void main(String[] args) {
         String nome = "Pedro";
-        
+        String nota = "A";
+
+        if (nota == "A") {
+            System.out.println(nome + ", você foi aprovado(a)." );
+        }
+        else if(nota == "PA") {
+            System.out.println(nome + ", você está de recuperação.");
+        }
+        else {
+            System.out.println(nome + ", você está reprovao(a).");
+        }
+
     }
 }

@@ -4,14 +4,15 @@
 public class Atividade12 {
     public static void main(String[] args) {
         String nome = "Pedro";
-        String curso = "adwasd";
-        int matricula = 887761;
+        String curso = "Técnico em Informática";
         String endereço = "ajkhd";
+        int matricula = 887761;
+        
 
         System.out.println("Nome: " + nome);
         System.out.println("Curso: " + curso);
-        System.out.println("Matricula: " + matricula);
         System.out.println("Endereço eletrônico: " + endereço);
+        System.out.println("Matricula: " + matricula);
 
     }
     
