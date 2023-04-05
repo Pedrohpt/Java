@@ -6,8 +6,9 @@ public class Atividade3 {
         String nome = "Pedro";
         int idade = 19;
         String amigo = "sim";
+        String convite = "sim";
         
-        if(amigo == "sim" && idade >= 21){
+        if(amigo == "sim" && idade >= 21 && convite == "sim"){
             System.out.println("Bem vindo " + nome);
         }
         else {
