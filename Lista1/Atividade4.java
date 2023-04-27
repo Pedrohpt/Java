@@ -3,7 +3,7 @@
 “Parabéns senhor João pelo aniversário de nº 1”
 ...
 */
-public class Atividade4 {
+public class atividade4 {
     public static void main(String[] args) {
         int idade = 100;
         int i = 0;

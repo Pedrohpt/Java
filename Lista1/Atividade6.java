@@ -1,7 +1,7 @@
 /*
  6.	Desenvolva um algoritmo que verifique se um determinado número é igual a cem. Caso seja maior, imprima: “Número muito grande”.
 */
-public class Atividade6 {
+public class atividade6{
     public static void main(String[] args) {
         int numero = 100;
 

@@ -1,7 +1,7 @@
 /*
  9.	Calcule e exiba o valor da área de um triângulo.
 */
-public class Atividade9 {
+public class atividade9 {
     public static void main(String[] args) {
         double base = 5;
         double altura = 5;

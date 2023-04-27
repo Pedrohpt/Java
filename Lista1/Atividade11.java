@@ -1,7 +1,7 @@
 /*
  11.	Desenvolva um bloco de código que leia um determinado número e verifique se ele é maior, igual ou menor do que zero. Imprima o resultado.
 */
-public class Atividade11 {
+public class atividade11 {
     public static void main(String[] args) {
         int numero = 12523;
 
